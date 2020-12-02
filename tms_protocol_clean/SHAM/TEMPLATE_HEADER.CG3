@@ -1,0 +1,45 @@
+[Model Option]
+ModelOption=3
+[Main Menu]
+Mode=0
+Current Direction=0
+Wave Form=1
+Inter Pulse Interval=100
+Burst Pulses=0
+Pulse BA Ratio=100
+[Timing Menu]
+Timing Control=0
+Rep Rate=100
+Pulses in train=40
+Number of Trains=75
+Inter Train Interval=110
+RampUp=100
+RampUpTrains=1
+[Trigger Menu]
+Trig Output=1
+Twin Trig output=0
+Twin Trig Input=0
+Polarity Input=0
+Polarity output=0
+Delay Input Trig=0
+Delay Output Trig=0
+[Configuration Menu]
+Charge Delay=0
+Auto Discharge Time=5
+Prior Warning Sound=1
+Coil Type Display=1
+[MEP Menu]
+Time=5 ms/div
+Sensitivity=500 uV/div
+Scroll=0 ms
+Curve No=0
+Baseline=1
+Lower Freq=100 Hz
+Upper Freq=5 kHz
+Trigger mode=0
+Size=0
+On Top=1
+[Cooler Menu]
+System Mode=0
+[Protocol Setup]
+Number of Lines=TOTTRIALS

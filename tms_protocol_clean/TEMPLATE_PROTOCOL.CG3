@@ -1,0 +1,188 @@
+[Model Option]
+ModelOption=3
+[Main Menu]
+Mode=0
+Current Direction=0
+Wave Form=1
+Inter Pulse Interval=100
+Burst Pulses=0
+Pulse BA Ratio=100
+[Timing Menu]
+Timing Control=0
+Rep Rate=100
+Pulses in train=40
+Number of Trains=75
+Inter Train Interval=110
+RampUp=100
+RampUpTrains=1
+[Trigger Menu]
+Trig Output=1
+Twin Trig output=0
+Twin Trig Input=0
+Polarity Input=0
+Polarity output=0
+Delay Input Trig=0
+Delay Output Trig=0
+[Configuration Menu]
+Charge Delay=0
+Auto Discharge Time=5
+Prior Warning Sound=1
+Coil Type Display=1
+[MEP Menu]
+Time=5 ms/div
+Sensitivity=500 uV/div
+Scroll=0 ms
+Curve No=0
+Baseline=1
+Lower Freq=100 Hz
+Upper Freq=5 kHz
+Trigger mode=0
+Size=0
+On Top=1
+[Cooler Menu]
+System Mode=0
+[Protocol Setup]
+Number of Lines=13
+[protocol Line 1]
+Delay=1000
+Amplitude A Gain=100
+Mode=0
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=10000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 2]
+Delay=10000
+Amplitude A Gain=70
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=2000
+BA Ratio=130
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 3]
+Delay=3000
+Amplitude A Gain=70
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=3000
+BA Ratio=130
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 4]
+Delay=3000
+Amplitude A Gain=70
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=4000
+BA Ratio=130
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 5]
+Delay=3000
+Amplitude A Gain=70
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=5000
+BA Ratio=130
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 6]
+Delay=3000
+Amplitude A Gain=70
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=6000
+BA Ratio=130
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 7]
+Delay=3000
+Amplitude A Gain=70
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=7000
+BA Ratio=130
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 8]
+Delay=30000
+Amplitude A Gain=100
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=50000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 9]
+Delay=30000
+Amplitude A Gain=100
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=80000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 10]
+Delay=30000
+Amplitude A Gain=100
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=110000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 11]
+Delay=30000
+Amplitude A Gain=100
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=140000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 12]
+Delay=30000
+Amplitude A Gain=100
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=170000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1
+[protocol Line 13]
+Delay=30000
+Amplitude A Gain=100
+Mode=2
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=200000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1

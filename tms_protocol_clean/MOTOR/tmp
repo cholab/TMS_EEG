@@ -1,0 +1,11 @@
+[protocol Line 50]
+Delay=5000
+Amplitude A Gain=100
+Mode=0
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=10000
+BA Ratio=100
+Repetition Rate=10
+Train Pulses=1

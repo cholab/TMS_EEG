@@ -1,0 +1,11 @@
+[protocol Line TRIALNUM]
+Delay=DELAYTIME
+Amplitude A Gain=AGAIN
+Mode=MODE
+Current Direction=1
+Wave Form=1
+Burst Pulses=2
+Inter Pulse Interval=IPITIME000
+BA Ratio=BARAT
+Repetition Rate=10
+Train Pulses=1
